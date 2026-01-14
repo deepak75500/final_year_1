@@ -1,4 +1,4 @@
-MYSQL AND MONGODB PROJEXT:
+MYSQL AND MONGODB PROJECT:
 Using natural language, an intelligent, user-friendly
 system is suggested to make interacting with SQL and NoSQL
 databases easier. The system makes it simple for both technical
